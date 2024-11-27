@@ -24,32 +24,12 @@
       <h2>Our Services</h2>
       <p>We offer top-notch business solutions tailored for your needs.</p>
     </section>
-
-    <section id="transfer">
-      <h2>Transfer Money</h2>
-      <form id="transferForm">
-        <label for="amount">Amount:</label>
-        <input type="number" id="amount" name="amount" required>
-        <label for="recipient">Recipient:</label>
-        <input type="text" id="recipient" name="recipient" required>
-        <button type="submit">Transfer</button>
-      </form>
-      <p id="transferResult"></p>
-    </section>
-
-    <section id="videos">
-      <h2>Watch Our Videos</h2>
-      <video controls>
-        <source src="sample-video.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </section>
   </main>
 
   <footer id="contact">
     <h2>Contact Us</h2>
-    <p>Email: support@businessplatform.com</p>
-    <p>Phone: +123-456-7890</p>
+    <p>Email: gaminggseries9@gmail.com.com</p>
+    <p>Phone: +01857502787</p>
   </footer>
 
   <script src="scripts.js"></script>
